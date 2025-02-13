@@ -68294,13 +68294,13 @@ J(a){return A.pt(new A.Wg(),B.U,new A.aC(this.c,this.d,t.Y),t.i)}}
 A.Wg.prototype={
 $3(a,b,c){var s=null,r=t.w,q=A.aK(a,B.y,r).w.a.a<=700?"\n":""
 r=!(A.aK(a,B.y,r).w.a.a<=700)?"\n":""
-return A.cM("I'm capable of creating excellent mobile apps and web application, handling"+q+"every step from "+r+"concept to deployment.",2,B.aB,A.tj(s,s,B.eZ,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,2),s)},
+return A.cM("I'm capable of creating excellent mobile apps and web application, handling "+q+"every step from "+r+"concept to deployment.",2,B.aB,A.tj(s,s,B.eZ,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,2),s)},
 $S:69}
 A.GI.prototype={
 J(a){var s=null,r=A.dA(20),q=A.a([B.ay,B.cr],t.O)
 return A.oa(!1,s,!0,A.dq(B.a_,A.eP(A.a([A.cM("Download CV",s,s,A.ah(a).p2.ax.Mq(B.j,B.a8,1.2),s),B.PX,B.Go],t.p),B.F,B.C,B.R),B.x,s,s,new A.cw(s,s,s,r,B.hR,new A.h2(B.xw,B.xv,B.aV,q,s,s),B.a0),s,s,s,B.FD,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.YV(),s,s,s,s)}}
 A.YV.prototype={
-$0(){A.jX(A.ec("assets/images/cv.pdf",0,null))},
+$0(){A.jX(A.ec("https://drive.google.com/file/d/1ubaZRI8MCsVYb7G-70y4JaPsdfr8b81B/view?usp=sharing",0,null))},
 $S:0}
 A.oB.prototype={
 J(a){return new A.fO(new A.a5E(this),null)}}
